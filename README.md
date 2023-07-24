@@ -1,4 +1,5 @@
-# FDM_template
-FDM template repo
+# CB_FDM_ASD_PTL
 
-## Change the title of this README to match the name of the dataset and provide basic details about the data source and FDM contents.
+*Scripts and documentation for the Autism Spectrum Disorders (ASD) Patient Tracking List (PTL)*
+
+The ASD PTL contains aggregated information on the ASD and ADHD Assessment waiting lists for BDCT, BTHFT and Airdale Trusts. The PTL comprises one table "tbl_autism_amalgamated_ptl_oct2022"
